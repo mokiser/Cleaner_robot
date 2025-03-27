@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Ilya\Desktop\С++\arch_I_S\robot\robot\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ilya\Desktop\С++\arch_I_S\robot\robot\reciever.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ilya\Desktop\С++\arch_I_S\robot\robot\motor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ilya\Desktop\С++\arch_I_S\robot\robot\system.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ilya\Desktop\С++\arch_I_S\robot\robot\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BC9F4C9C-F873-3A72-84C8-EA311CB70C32}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
