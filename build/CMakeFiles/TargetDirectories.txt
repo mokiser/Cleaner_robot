@@ -1,0 +1,3 @@
+C:/Users/Ilya/Desktop/С++/arch_I_S/Cleaner_robot/Cleaner_robot/build/CMakeFiles/Robot.dir
+C:/Users/Ilya/Desktop/С++/arch_I_S/Cleaner_robot/Cleaner_robot/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ilya/Desktop/С++/arch_I_S/Cleaner_robot/Cleaner_robot/build/CMakeFiles/ZERO_CHECK.dir

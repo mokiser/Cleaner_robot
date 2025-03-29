@@ -1,0 +1,10 @@
+^C:\USERS\ILYA\DESKTOP\С++\ARCH_I_S\CLEANER_ROBOT\CLEANER_ROBOT\BUILD\CMAKEFILES\D8C6AC0D914A7401C2E59568D1C804B0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Ilya/Desktop/С++/arch_I_S/Cleaner_robot/Cleaner_robot -BC:/Users/Ilya/Desktop/С++/arch_I_S/Cleaner_robot/Cleaner_robot/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Ilya/Desktop/С++/arch_I_S/Cleaner_robot/Cleaner_robot/build/Robot.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
