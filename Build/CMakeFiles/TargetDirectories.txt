@@ -1,0 +1,7 @@
+/home/fenek/archIS/Cleaner_robot/Build/CMakeFiles/cvcontroller.dir
+/home/fenek/archIS/Cleaner_robot/Build/CMakeFiles/edit_cache.dir
+/home/fenek/archIS/Cleaner_robot/Build/CMakeFiles/rebuild_cache.dir
+/home/fenek/archIS/Cleaner_robot/Build/CMakeFiles/list_install_components.dir
+/home/fenek/archIS/Cleaner_robot/Build/CMakeFiles/install.dir
+/home/fenek/archIS/Cleaner_robot/Build/CMakeFiles/install/local.dir
+/home/fenek/archIS/Cleaner_robot/Build/CMakeFiles/install/strip.dir
